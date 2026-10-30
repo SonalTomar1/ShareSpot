@@ -1,0 +1,6 @@
+{
+  "name": "ShareSpot",
+  "description": "Campus resource sharing platform for safe peer-to-peer equipment and space lending with AI condition checks, fair access, and two-way ratings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
